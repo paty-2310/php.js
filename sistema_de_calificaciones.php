@@ -64,4 +64,3 @@ foreach ($estudiantes as $estudiante) {
 
 echo "=========================================\n";
 
-?>
